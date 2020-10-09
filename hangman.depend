@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1602173317 source:c:\users\91770\documents\hangman\hangman\main.c
+
+1602149168 source:c:\users\91770\documents\hangman\hangman\implementation\src\hangman.c
+
+1602148602 source:c:\users\91770\documents\hangman\hangman\implementation\unitys\hangman.c
+
+1602220999 source:c:\users\91770\documents\hangman\hangman\implementation\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1602152942 c:\users\91770\documents\hangman\hangman\implementation\unity\unity.h
+	"unity_internals.h"
+
+1602152942 c:\users\91770\documents\hangman\hangman\implementation\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1602222860 source:c:\users\91770\documents\hangman\hangman\implementation\test\test_hangman.c
+	"unity.h"
+	"hangman.h"
+
+1602167574 c:\users\91770\documents\hangman\hangman\implementation\inc\hangman.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+
+1602174553 source:c:\users\91770\documents\hangman\hangman\implementation\main.c
+
